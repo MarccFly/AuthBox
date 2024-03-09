@@ -1,6 +1,6 @@
-# NodeAuthKit
+# AuthBox
 
-NodeAuthKit is a Node.js authentication system designed to provide secure user management and JWT-based authentication, seamlessly integrated with SQL databases for robust data storage and querying.
+AuthBox is a Node.js authentication system designed to provide secure user management and JWT-based authentication, seamlessly integrated with SQL databases for robust data storage and querying.
 
 ## Features
 
